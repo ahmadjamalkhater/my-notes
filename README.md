@@ -1,5 +1,11 @@
 # my-notes
-Hi, I'm Ahmed, I'm learning software development
+# introduction 
+I am Ahmed Gamal Khater
+I am 28 years old, I'm learning software development
+
+Developers who don't fully understand their work tend to develop complex systems. It can become a vicious cycle: misunderstanding leads to complexity, which leads to further misunderstanding, and so on.
+
+
 # this is the first class
 ### class-3
 
